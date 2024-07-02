@@ -8,5 +8,5 @@ What we learned with this example:
 - Append and extract items in lists.
 - Nested lists
 - Index errors.
-- 
+
 You can find the original course here: https://www.udemy.com/course/100-days-of-code/?couponCode=ST18MT62524.
